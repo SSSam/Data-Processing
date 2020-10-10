@@ -1,5 +1,5 @@
   
-   WELCOME to the CMPT 120 Preferences and Similarities system! 
+   WELCOME to the Preferences and Similarities system! 
      ============================================================ 
 
     This system will process data from the file: IN_all_data.txt
